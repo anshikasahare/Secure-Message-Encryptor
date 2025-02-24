@@ -1,7 +1,0 @@
-print(5+8)
-print(15-8)
-print(5*2)
-print(5/2)
-print(5//2)
-print(5%2)
-print(15**3)
